@@ -20,7 +20,7 @@ func findK(m: Double, g: Double, h: Double, x: Double) -> Double {
     print("\n")
     print("\(twoMGH)\n\(getUnderscores(count: twoMGH.characters.count))\n\(2 * x)")
     print("\n")
-    print("k = \(k) Newtons")
+    print("k = \(k)")
     return k
 }
 
